@@ -189,4 +189,8 @@ body {
     .code-editor {
         font-size: 12px;
     }
+    img{
+        width: 100%;
+        border-radius: 10px;
+    }
 }
